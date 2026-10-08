@@ -1,1 +1,8 @@
+fastapi
 uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+python-dotenv
+groq
+python-jose[cryptography]
+bcrypt
