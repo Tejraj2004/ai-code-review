@@ -1,0 +1,20 @@
+# Backend
+backend/.env
+backend/__pycache__/
+backend/**/*.pyc
+
+# Python
+venv/
+.venv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/
